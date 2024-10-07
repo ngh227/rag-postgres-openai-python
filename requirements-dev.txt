@@ -12,3 +12,4 @@ pytest-cov
 pytest-playwright
 pytest-snapshot
 locust
+psycopg2
